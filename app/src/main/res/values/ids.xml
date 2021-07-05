@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="zeroBtn" type="id" />
+    <item name="oneBtn" type="id" />
+    <item name="twoBtn" type="id" />
+    <item name="threeBtn" type="id" />
+    <item name="fourBtn" type="id" />
+    <item name="fiveBtn" type="id" />
+    <item name="sixBtn" type="id" />
+    <item name="sevenBtn" type="id" />
+    <item name="eightBtn" type="id" />
+    <item name="nineBtn" type="id" />
+    <item name="plusBtn" type="id" />
+    <item name="minusBtn" type="id" />
+    <item name="multiBtn" type="id" />
+    <item name="divBtn" type="id" />
+    <item name="deleteBtn" type="id" />
+    <item name="resultBtn" type="id" />
+    <item name="doteBtn" type="id" />
+    <item name="button1" type="id" />
+    <item name="button2" type="id" />
+    <item name="button3" type="id" />
+    <item name="operation" type="id" />
+    <item name="result" type="id" />
+    <item name="delBtn" type="id" />
+    <item name="historyBtn" type="id" />
+
+</resources>
